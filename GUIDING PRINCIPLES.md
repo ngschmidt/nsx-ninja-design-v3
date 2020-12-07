@@ -10,7 +10,8 @@
 
 - ~10 VMs per customer
 - Typically DaaS or 3-tier Web Apps
-- ~4 vn-segments per customer
+- ~4 `vn-segments` per customer
+- Dedicated IPs per tenant - for IPsec L2L, and public services?
 
 ## Dedicated Tenants
 
@@ -43,6 +44,7 @@
 ## Scale
 
 - 6,000 `vn-segments`
+- 1,500 `logical routers`
 
 ## Bridging
 
