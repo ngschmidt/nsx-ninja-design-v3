@@ -11,6 +11,7 @@
 - ~10 VMs per customer
 - Typically DaaS or 3-tier Web Apps
 - ~4 `vn-segments` per customer
+- Probably high 80/20 N/S
 - Dedicated IPs per tenant - for IPsec L2L, and public services?
 
 ## Dedicated Tenants
@@ -45,6 +46,7 @@
 
 - 6,000 `vn-segments`
 - 1,500 `logical routers`
+- Lots and lots of bulk crypto for the IPSec on/off ramp
 
 ## Bridging
 
