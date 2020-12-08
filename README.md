@@ -13,6 +13,13 @@ Provide a complete solution design for Zilungele Cloud Services.
 - Fancy Text Documents:
 - Diagrams:
 
+## Table of Contents
+
+- [Customer Requirements](REQUIREMENTS.md)
+- [Guiding Principles](GUIDINGPRINCIPLES.md)
+- [Design Decisions](DESIGNDECISIONS.md)
+  - [Ideas](IDEAS.md)
+
 ### Conventions/Shared Stencils
 
 - <https://communities.vmware.com/t5/Documents/Visio-Diagrams-for-VMware-Validated-Design-for-SDDC-6-0/ta-p/2782683>
