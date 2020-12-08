@@ -25,7 +25,7 @@
 
 ## Shared Services Tenant
 
-- Must interconnect to all ~430 customers with potentially overlapped addressing
+- Must interconnect to all ~430 customers with potentially overlapped addressing. Given that this number already exceeds scalability limits, a more "cloud-like" approach may be necessary here, like IPSec on A/P T0 in a shared service deployment (on a separate manager)
 - Probably needs public netblocks. See note about IPv6
 
 ## Dataplane Multi-Tenancy
