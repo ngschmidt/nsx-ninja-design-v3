@@ -33,6 +33,7 @@
 ## Availability Zones
 
 - Customer already has 2 AZs per region (*city*)
+- Each Availability zone will have A/A redundant components, including a shared services pod and network egress.
 
 ## Public Cloud on-Ramp
 
