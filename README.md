@@ -16,8 +16,17 @@ Provide a complete solution design for Zilungele Cloud Services.
 ## Table of Contents
 
 - [Customer Requirements](REQUIREMENTS.md)
+  - [Scale Plan](SCALE.md)
 - [Guiding Principles](GUIDINGPRINCIPLES.md)
 - [Design Decisions](DESIGNDECISIONS.md)
+  - Shared Services Tenant
+  - Example Tenant Blueprint
+  - Transport Node Design
+  - IP/ASN Management
+  - NAT Management
+  - Security Controls and Auditing
+  - Automation and Orchestration
+  - LAN-to-LAN (L2L) Configuration
   - [Ideas](IDEAS.md)
 
 ### Conventions/Shared Stencils
@@ -34,8 +43,9 @@ Provide a complete solution design for Zilungele Cloud Services.
 
 ## Authors
 
-- *Alan M*
-- *Alex*
-- *Brad Calvert*
-- *Greg Worman*
-- *Nick Schmidt*
+- *Alan M* @sondercoder
+- *Alex* @alexxandrozz
+- *Brad Calvert* @BlueArcherX
+- *Greg Worman* @Null-Username
+- *Jacob Shaw* @J-Easix
+- *Nick Schmidt* @ngschmidt
