@@ -7,8 +7,8 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## NSX Manager Instances
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
-|Edge Transport Node Clusters | 160 |
+|-|:-:|:-:|-|
+| Edge Transport Node Clusters | 160 |
 | Edge Transport Nodes | 320
 | Compute Managers | 16 |
 | Hypervisors | 1024 |
@@ -21,7 +21,8 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## Tier-0 Routing
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
+
 | BGP Peers | 640 |
 | Prefix-lists | 500 |
 | Prefix-list entries | 10 |
@@ -31,7 +32,7 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## Tier-1 Routing
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | Logical Routers | 4,000 | 1,500+ |
 | Gateways per Compute Host | 1,000 |
 | Max internal routes | 1,000 |
@@ -40,7 +41,7 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## Firewall (N-S)
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | Groups | 15,000 (10 per customer) |
 | AD Groups, 100,000 |
 | AD Users, 100,000 |
@@ -49,7 +50,7 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## Firewall (Distributed)
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | Logical Ports | 25,000 |
 | Stateful Rules | 100,000 |
 | Rules Per Compute Host | 10,000 |
@@ -57,7 +58,7 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## Load Balancing
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | Small Load Balancer per M Node | 10 |
 | Small Load Balancer per L Node | 40 |
 | Small Load Balancer per XL Node | 80 |
@@ -67,13 +68,14 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## VPN
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
+
 | IPSec L2L| Small 128 <br /> Medium 256 <br /> Large 512 <br /> XL 512 <br /> BM 512 | 400/Logical Router |
 
 ## Service Insertion (N-S)
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | Services | 4 |
 | SVMs | 200 |
 | Rules | 10,000 |
@@ -81,7 +83,7 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## Service Insertion (Distributed)
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | Logical Ports | 10,000 |
 | Hosts with active Network Introspection | 256 |
 | Service Insertion Policies per Compute Host | 100 |
@@ -93,7 +95,7 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 ## Guest Introspection|
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | App VMs per Compute Host | 40 |
 | VMs per Compute Host | 256 |
 | VMs | 7,500 |
@@ -103,5 +105,5 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 Not really viable here.
 
 | Feature | ConfigMax | Capacity Needed | Notes |
-|-|-|-|-|
+|-|:-:|:-:|-|
 | Compute Hosts | 256 |
