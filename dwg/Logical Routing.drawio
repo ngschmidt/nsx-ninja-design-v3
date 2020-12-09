@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T20:40:35.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rh3KX6kV45X5X4xR_3b8" version="13.11.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-09T21:22:57.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="t-PCyvcBW-qI5ZjqXPyL" version="13.11.0" type="github" pages="3">
   <diagram id="IyBNO4WMqh4tq5qnDeRS" name="Logical Routing HLD">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -281,11 +281,23 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ybUfuFw8ea-CHFbWOAjj" name="Logical Routing">
+  <diagram id="ybUfuFw8ea-CHFbWOAjj" name="Logical Routing Detail">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7eDJe8UgWT6jdxHGijZa-0" />
         <mxCell id="7eDJe8UgWT6jdxHGijZa-1" parent="7eDJe8UgWT6jdxHGijZa-0" />
+        <mxCell id="t1rqnOKn8YPt1P-S3waj-0" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="510" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t1rqnOKn8YPt1P-S3waj-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="1080" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DcmSvm7YLu4Xs5LXC8q1-0" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Zcs&amp;lt;City&amp;gt;&amp;lt;Az&amp;gt;Leaf-#&lt;/b&gt;&lt;br&gt;&amp;lt;Model&amp;gt;&lt;br&gt;&amp;lt;Management IP&amp;gt;&lt;br&gt;&amp;lt;Peer Networks&amp;gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="340" y="55" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcmSvm7YLu4Xs5LXC8q1-1" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Zcs&amp;lt;City&amp;gt;&amp;lt;Az&amp;gt;Leaf-#&lt;/b&gt;&lt;br&gt;&amp;lt;Model&amp;gt;&lt;br&gt;&amp;lt;Management IP&amp;gt;&lt;br&gt;&amp;lt;Peer Networks&amp;gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="1190" y="55" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
