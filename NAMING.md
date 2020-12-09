@@ -7,7 +7,7 @@
 |zcs|city|01|underlay_tz|ZcsCity01Leaf-1|zcs-city01-underlay_tz-ZcsCity01Leaf-1 |
 |zcs|city|01|nvds|sharedhub|zcs-city01-nvds-sharedhub |
 |zcs|city|01|localmgr|01|zcs-city01-localmgr-01 |
-|zcs|city|01|etn|etc0tn0|zcs-city01-etn-etc0tn0 (Edge Transport Cluster 0 Transport Node 0) |
+|zcs|city|01|etn|etc0tn0|zcs-city01-etn-etc0tn0 (Edge Cluster 0 Transport Node 0) |
 |zcs|city|01|etc|etc0|zcs-city01-etc-etc0 |
 |zcs|city|01|t0-podrouter|01| zcs-city01-t0-podrouter-01 |
 |zcs|city|01|t0-aggrouter|01| zcs-city01-t0-aggrouter-01 |
