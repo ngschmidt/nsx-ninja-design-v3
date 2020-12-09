@@ -22,7 +22,6 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 
 | Feature | ConfigMax | Capacity Needed | Notes |
 |-|:-:|:-:|-|
-
 | BGP Peers | 640 |
 | Prefix-lists | 500 |
 | Prefix-list entries | 10 |
