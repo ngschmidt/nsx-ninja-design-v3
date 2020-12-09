@@ -9,7 +9,7 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 | Feature | ConfigMax | Capacity Needed | Notes |
 |-|:-:|:-:|-|
 | Edge Transport Node Clusters | 160 |
-| Edge Transport Nodes | 320
+| Edge Transport Nodes | 320 | AZ Pod will consume 8 (AZ Aggregation) + 16 (4 per 400 Customers, enumerated to 1600) at T0 <br /> Total T0 per Region: 48 <br /> (Tier-0 sizing goes here)
 | Compute Managers | 16 |
 | Hypervisors | 1024 |
 | Physical Servers | 300 |
@@ -105,3 +105,15 @@ Not really viable here.
 | Feature | ConfigMax | Capacity Needed | Notes |
 |-|:-:|:-:|-|
 | Compute Hosts | 256 |
+
+## vCD
+
+| Feature | ConfigMax | Capacity Needed | Notes |
+|-|:-:|:-:|-|
+| vCenter | 35 | |
+| NSX-T Managers | 30 | |
+| Organizations | 10,000 | 1,500 |
+| External Networks | 8,000 | 1,500-4,500 | Assumes 3 per customer average |
+| Universal Logical Routers | 1 Universal Router per VDC Group | Shared Pod? |
+| Latency from Cell to managed nodes | 150ms |
+| Latency between Cells | 1ms |
