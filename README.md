@@ -22,7 +22,7 @@ Provide a complete solution design for Zilungele Cloud Services.
   - Shared Services Tenant
   - Example Tenant Blueprint
   - Transport Node Design
-  - IP/ASN Management
+  - [IP/ASN Management](IP_ASN_REGISTRY.md)
   - NAT Management
   - Security Controls and Auditing
   - Automation and Orchestration
