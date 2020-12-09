@@ -43,8 +43,8 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 | Feature | ConfigMax | Capacity Needed | Notes |
 |-|:-:|:-:|-|
 | Groups | 15,000 (10 per customer) |
-| AD Groups, 100,000 |
-| AD Users, 100,000 |
+| AD Groups | 100,000 |
+| AD Users | 100,000 |
 | Rules| 5,000 per Logical Router |
 
 ## Firewall (Distributed)
@@ -69,7 +69,6 @@ Where applicable, we're considering NSX-T 3.0.2 for capacity purposes.
 
 | Feature | ConfigMax | Capacity Needed | Notes |
 |-|:-:|:-:|-|
-
 | IPSec L2L| Small 128 <br /> Medium 256 <br /> Large 512 <br /> XL 512 <br /> BM 512 | 400/Logical Router |
 
 ## Service Insertion (N-S)
