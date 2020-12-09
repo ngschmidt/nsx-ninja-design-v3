@@ -10,7 +10,7 @@
 |zcs|city|01|etn|etc0tn0|zcs-city01-etn-etc0tn0 (Edge Transport Cluster 0 Transport Node 0) |
 |zcs|city|01|etc|etc0|zcs-city01-etc-etc0 |
 |zcs|city|01|t0-podrouter|01| zcs-city01-t0-podrouter-01 |
-|zcs|city|01|t0-aggrouter|01| zcs-city01-t0-aggrourter-01 |
+|zcs|city|01|t0-aggrouter|01| zcs-city01-t0-aggrouter-01 |
 
 ## Portable Objects
 
