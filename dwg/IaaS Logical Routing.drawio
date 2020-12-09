@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T23:06:22.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EMF1p-kka4olY22ecAOa" version="13.11.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-09T23:10:31.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uyjvWxWmVh2tzUeEAcYK" version="13.11.0" type="github" pages="3">
   <diagram id="IyBNO4WMqh4tq5qnDeRS" name="Logical Routing HLD">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -358,8 +358,8 @@
         <mxCell id="u0vn-zOakEVdDYgiWVnr-0" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="320" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u0vn-zOakEVdDYgiWVnr-1" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-customer01-t1-router-01&lt;/b&gt;&lt;br&gt;1 or more &lt;i&gt;&lt;b&gt;vn-segments&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;i&gt;Outbound Source-NAT&lt;br&gt;Inbound Destination NATs&lt;br&gt;&lt;/i&gt;Site-to-Site Tunnels&lt;br&gt;Shared Edge Cluster (40 tenants max)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="295" y="860" width="220" height="90" as="geometry" />
+        <mxCell id="u0vn-zOakEVdDYgiWVnr-1" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-customer01-t1-router-01&lt;/b&gt;&lt;br&gt;1 or more &lt;i&gt;&lt;b&gt;vn-segments&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;i&gt;Outbound Source-NAT&lt;br&gt;Inbound Destination NATs&lt;br&gt;&lt;/i&gt;Site-to-Site Tunnels&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="315" y="865" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u0vn-zOakEVdDYgiWVnr-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="400" y="780" width="80" height="80" as="geometry" />
@@ -367,8 +367,8 @@
         <mxCell id="u0vn-zOakEVdDYgiWVnr-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="765" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u0vn-zOakEVdDYgiWVnr-4" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-customer02-t1-router-01&lt;/b&gt;&lt;br&gt;1 or more &lt;i&gt;&lt;b&gt;vn-segments&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;i&gt;Outbound Source-NAT&lt;br&gt;Inbound Destination NATs&lt;br&gt;&lt;/i&gt;Site-to-Site Tunnels&lt;br&gt;Shared Edge Cluster (40 tenants max)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="740" y="860" width="220" height="90" as="geometry" />
+        <mxCell id="u0vn-zOakEVdDYgiWVnr-4" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-customer02-t1-router-01&lt;/b&gt;&lt;br&gt;1 or more &lt;i&gt;&lt;b&gt;vn-segments&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;i&gt;Outbound Source-NAT&lt;br&gt;Inbound Destination NATs&lt;br&gt;&lt;/i&gt;Site-to-Site Tunnels&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="760" y="865" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u0vn-zOakEVdDYgiWVnr-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="845" y="780" width="80" height="80" as="geometry" />
@@ -376,11 +376,47 @@
         <mxCell id="u0vn-zOakEVdDYgiWVnr-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="1195" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u0vn-zOakEVdDYgiWVnr-7" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-customer03-t1-router-01&lt;/b&gt;&lt;br&gt;1 or more &lt;i&gt;&lt;b&gt;vn-segments&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;i&gt;Outbound Source-NAT&lt;br&gt;Inbound Destination NATs&lt;br&gt;&lt;/i&gt;Site-to-Site Tunnels&lt;br&gt;Shared Edge Cluster (40 tenants max)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1170" y="860" width="220" height="90" as="geometry" />
+        <mxCell id="u0vn-zOakEVdDYgiWVnr-7" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-customer03-t1-router-01&lt;/b&gt;&lt;br&gt;1 or more &lt;i&gt;&lt;b&gt;vn-segments&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;i&gt;Outbound Source-NAT&lt;br&gt;Inbound Destination NATs&lt;br&gt;&lt;/i&gt;Site-to-Site Tunnels&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="1190" y="865" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u0vn-zOakEVdDYgiWVnr-8" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="1275" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-0" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="330" as="sourcePoint" />
+            <mxPoint x="1160" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-1" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-city01-etc-etc0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="780" y="330" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-2" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="600" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-3" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-city01-etc-etc1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="420" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-4" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="600" as="sourcePoint" />
+            <mxPoint x="1360" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-5" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-city01-etc-etc2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="1140" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-6" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="770" as="sourcePoint" />
+            <mxPoint x="1360" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eBfcKK7cpbGecScrmHG-7" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-city01-etc-etc100 (no more than 40 tenants/cluster)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="685" y="750" width="330" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
