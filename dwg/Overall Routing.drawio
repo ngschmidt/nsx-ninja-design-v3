@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T03:48:33.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="iR1kGHK5fQthzJNlQ46m" version="14.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-10T03:49:05.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="CH4oYk-FEnQDmRvXPO2w" version="14.0.0" type="github">
   <diagram id="IyBNO4WMqh4tq5qnDeRS" name="Multi-Site HLD">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -324,53 +324,6 @@
         </mxCell>
         <mxCell id="UkyxxvgO4Va6mRZhKOwy-109" style="vsdxID=6;fillColor=#000000;gradientColor=none;shape=stencil(rVrbdtw2DPyafeUR7+RzmvxHTuPUe+raOY7Tpn9fblciqBmKkuq+OQoggMBgAFB7sR++P37+9nAx0/e315ffH/66fnl7vNhfLsZcnx8fXq9v5a+L/XixH76+vD789vry4/nL/d/fPt8kb3/98fLn7Q0/73rO31TM9Pf9nzor9++DT3fhp+tzI+yjepe4CSrFVv7XH693Z/SskVRcVOZHJiob7o9+mvujMClnZilTpdIiZWcprUKcpeZHJi3v6vrbasznCyqbkcOtyvxI++pd43Cya4e1U86uHfZZ+bR2WKS6DjuzuFcdRgV02HUcblyZvXMdh5tjWZayGwEDhxuNjZSQw0ZN6YKQSAAJZwU4hoGzOOzX3hIewdszYN8RXledJ6TlSU1+iDSJ/xIH0alxiEEZiEN5FCBxrZStEB0CvVXREvMEQAfbtuTbr22Xo6NtkdowboVINL/Y1GTWmC6ocMqktflW6uDRWxXNMTXVx1qLhvNjOfF2I/NAovtQOa2wB0brVRrTXkM8GnUEjE3pLhmJykBRtlKSkWGbiMwJ0SkNJFacBDgmr6a4C0eR2qKkaW27fW0DfCDQ1kPLUgeP3qos7gQVwXz10HBytpG4m3bPzaOT9lbqffb3gP1+BaiEZrCoGAp5GBInTXspDqcC8KJnbgpBacRih5uiCsP26JmcQlYBuLH1coFjCY7brQWR2qqFXI9RS7F5s5Q9dqVJnFy6c6crlbcPO4PzVA4hKY3TAR9fAiv2rbJYjfVdx6eTohPQPhNhOb/G8wtfHY6+wcbYCz7xYCf3HeNG6bPGq8rIeCP0DuOOcVfqDufYyIHncchPYLyK9GllEZ+lS7kNKxS7hVZThvLkbpGMSC1ucqMUqS3jDaY1v1noQQM9tV5alrL9s0OgGoUaWT3uMJEGi+hp1uosgB1Ih0533aPTwO31tuJxvJBPbpurJjpFOi/Hm6W2YM107r2KcH7HU35xycB00eHTAgczXg95zC/HiFjUSVC1PMp1AZOyoviL1Fb+iVPaF2/DtdgyaL5ZmKSCzJBVfOf4VgJrahYx+mUVwm0+UTcp5uPYPDdTcVnMZ0bfxNFvrlIOR5+vX3rhT7Rr97L/X+zTnlcIPEIz9Z7I8oZanKWYrMqsEAfbPrOVK/PQ3vCH+bJZ4exnqVhsUgnJgsldpDY7C5FV++aKDTAuHm70Pzr3sP+VsJrxusQzmugMBoXCMhFHNI6SlN7hMaUUEBIqL+8t7QuhIaPQfoCh2l0oTiusV5Yc8Qowl210ML00EdyQxwAyykSlRhBAloNI2LWErY77IbphbMrQgzs3lNO0tshgWUS6keFQgjh6mJmuxQd0qkYGQCUCRwMjGpqDvVhhjm6TZvnE9hB6DsBtjU/dsN9cayqnATw93hCflq/Xklv3eZF2NmE8uU7kGadD2xaSZ8PwRsKuqdMoN+wvFhINzG4yzUFYAZzgQQHoZv/vCDMO194B8tk5iF2mDo3xAOxhf05lEBpchDL0TiuMsbcvv64FxurOVS7A5Zx0ssuYuFUHiXdDrTzWQWeFLpkAnHka9XeW6NOxOKCwjnY8a4EV9lb7yJd/nQhGHgAlN3INztti8soPBtZ49svA/xCR0zGnbztrCylhCZ1W2DlDNvAR+qz87hfKTAOmfFcUNuRL8RuiYWvJPGGKVD9FzYfPDYXO1xP015O/seNvIH87oN35xs6gtV5ZM/SX77BsVBaaYeQ7mU6/jkxUO9vOaUgfUCh/yO8xvl6fnu4/52j/H3+/UR7df/thP/4D);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="UkyxxvgO4Va6mRZhKOwy-108">
           <mxGeometry width="91" height="87.00000000000001" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="ybUfuFw8ea-CHFbWOAjj" name="Logical Routing Detail">
-    <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="7eDJe8UgWT6jdxHGijZa-0" />
-        <mxCell id="7eDJe8UgWT6jdxHGijZa-1" parent="7eDJe8UgWT6jdxHGijZa-0" />
-        <mxCell id="t1rqnOKn8YPt1P-S3waj-0" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="510" y="280" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="t1rqnOKn8YPt1P-S3waj-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="1080" y="280" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="DcmSvm7YLu4Xs5LXC8q1-0" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Zcs&amp;lt;City&amp;gt;&amp;lt;Az&amp;gt;Leaf-#&lt;/b&gt;&lt;br&gt;&amp;lt;Model&amp;gt;&lt;br&gt;&amp;lt;Management IP&amp;gt;&lt;br&gt;&amp;lt;Peer Networks&amp;gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="340" y="295" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DcmSvm7YLu4Xs5LXC8q1-1" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Zcs&amp;lt;City&amp;gt;&amp;lt;Az&amp;gt;Leaf-#&lt;/b&gt;&lt;br&gt;&amp;lt;Model&amp;gt;&lt;br&gt;&amp;lt;Management IP&amp;gt;&lt;br&gt;&amp;lt;Peer Networks&amp;gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="1190" y="295" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DcmSvm7YLu4Xs5LXC8q1-3" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-city01-t0-excrouter-customer01&lt;br&gt;&lt;/b&gt;AS64650&lt;br&gt;2 VLANs, /31/126&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="530" y="500" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="DcmSvm7YLu4Xs5LXC8q1-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="765" y="490" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DcmSvm7YLu4Xs5LXC8q1-7" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="845" y="490" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="u0vn-zOakEVdDYgiWVnr-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="765" y="640" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="u0vn-zOakEVdDYgiWVnr-4" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-customer01-t1-router-01&lt;/b&gt;&lt;br&gt;1 or more &lt;i&gt;&lt;b&gt;vn-segments&lt;/b&gt;&lt;br&gt;&lt;/i&gt;&lt;i&gt;N-S Firewalling&lt;br&gt;&lt;/i&gt;Site-to-Site Tunnels&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="570" y="650" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u0vn-zOakEVdDYgiWVnr-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.logical_distribution;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="845" y="640" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_eBfcKK7cpbGecScrmHG-0" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="470" as="sourcePoint" />
-            <mxPoint x="960" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_eBfcKK7cpbGecScrmHG-1" value="&lt;div&gt;&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Consolidated Edge Transport Cluster&lt;/b&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;zcs-city01-etc-customer01&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FFFFFF;" parent="7eDJe8UgWT6jdxHGijZa-1" vertex="1">
-          <mxGeometry x="970" y="590" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
