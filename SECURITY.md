@@ -8,6 +8,7 @@ The "Service Provider" *WILL* retail ultimate responsibility for the security of
 
 - Cloud Management Platforms, e.g. `vCloud Director Cells`
 - IaaS Components, e.g. `VMware Cloud Provider Pod` or `VMware Cloud Foundations`
+- Identity and Access Management for CMP/IaaS
 - Hypervisors and Bare Metal Compute
 - Storage Platforms
 - Physical Facilities
@@ -18,4 +19,12 @@ The "Service Provider" *WILL* retail ultimate responsibility for the security of
 
 ## Customer Responsibilities
 
-The "Customer" *WILL*:
+The "Customer" *WILL* retail ultimate responsibility for the security of:
+
+- Application Security
+- Placement of workloads to best achieve Availability goals
+- Guest Operating System Security
+- Confidentiality for Data stored in ZCS
+- Confidentiality for Data in transit
+- Network Security within the Tenant network, and any interconnection thereof
+- Identity and Access Management within the Tenant
