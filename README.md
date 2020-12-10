@@ -4,15 +4,6 @@
 
 Provide a complete solution design for Zilungele Cloud Services.
 
-## Usage / Collaboration Break-Down
-
-### Preferred Tools/Formats
-
-- Tables:
-- Inline Text Documents:
-- Fancy Text Documents:
-- Diagrams:
-
 ## Table of Contents
 
 - [Customer Requirements](REQUIREMENTS.md)
@@ -21,13 +12,12 @@ Provide a complete solution design for Zilungele Cloud Services.
 - [Design Decisions](DESIGNDECISIONS.md)
   - [Shared Services Tenant](img/Shared%20Services%20Pod.png)
   - [Example Tenant Blueprint](img/IaaS%20Logical%20Routing-Tier-1%20Services.png)
-  - Transport Node Design
+  - [Transport Node Design](TN.md)
   - [IP/ASN Management](IP_ASN_REGISTRY.md)
   - [Naming Conventions](NAMING.md)
-  - NAT Management
-  - Security Controls and Auditing
-  - Automation and Orchestration
-  - LAN-to-LAN (L2L) Configuration
+  - [Security Controls and Auditing](SECURITY.md)
+  - [Automation and Orchestration](AUTOMATION.md)
+  - [IPv6](IPv6.md)
   - [Ideas](IDEAS.md)
 
 ### Conventions/Shared Stencils
