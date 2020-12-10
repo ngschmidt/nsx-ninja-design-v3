@@ -19,8 +19,8 @@ Provide a complete solution design for Zilungele Cloud Services.
   - [Scale Plan](SCALE.md)
 - [Guiding Principles](GUIDINGPRINCIPLES.md)
 - [Design Decisions](DESIGNDECISIONS.md)
-  - Shared Services Tenant
-  - Example Tenant Blueprint
+  - [Shared Services Tenant]('img/Shared%20Services%20Pod.png')
+  - [Example Tenant Blueprint]('img/IaaS%20Logical%20Routing-Tier-1%20Services.png)
   - Transport Node Design
   - [IP/ASN Management](IP_ASN_REGISTRY.md)
   - [Naming Conventions](NAMING.md)
