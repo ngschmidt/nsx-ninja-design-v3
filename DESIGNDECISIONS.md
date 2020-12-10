@@ -12,5 +12,5 @@
 | VDI Placement will be on the same Transport Zone and have a dedicated vn segment on the customers T1 | Security is the responsibility of the customer within their tenancy |-|-| Professional services available |
 | IPSEC Tunnel overlays | Customers using both environments need access between Tiers and customers may need access to each other |-| Route Everything and Microsegment, Route Reflectors | Policy-based VPN is available via vCloud Director.<br /> Route-based VPN is available through PSO at additional cost |
 | NSX Edge VMs sized at Large | Large VM supports up to 40 tenants with a load balancer and BFD not needed | Higher average cost per VM | Bare Metal Edges | Allows a standard hardware form-factor for Edge hypervisors |
-| Manage tenant to infrastructure ration in a scalable and maintainable way |-|-|-| Keep Edge Transport Node to tenant ratios low where possible |
+| Manage tenant to infrastructure ratio in a scalable and maintainable way |-|-|-| Keep Edge Transport Node to tenant ratios low where possible |
 |-|-|-|-|-|
