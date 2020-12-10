@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T17:19:49.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="q2UH4MCfKyn5Md9niu8x" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T17:42:46.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="U1Tj2rHyIasqzf0awLr8" version="14.0.0" type="github">
   <diagram id="ybUfuFw8ea-CHFbWOAjj" name="Logical Routing Detail">
     <mxGraphModel dx="2426" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7eDJe8UgWT6jdxHGijZa-0" />
         <mxCell id="7eDJe8UgWT6jdxHGijZa-1" parent="7eDJe8UgWT6jdxHGijZa-0" />
         <mxCell id="PRShFBE_9NoNyRxM8n8l-0" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="270" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="287" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="410" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="427" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="340" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="357" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="480" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="497" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;Spine-N&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;AZ 1 ASN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;iBGP Route Reflectors&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;AFIs: IPv4-U, IPv6-U, EVPN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="550" y="220" width="170" height="60" as="geometry" />
+          <mxGeometry x="567" y="220" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-5" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="80" y="520" width="60" height="60" as="geometry" />
@@ -53,154 +53,154 @@
           <mxGeometry x="80" y="811.11" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-16" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="280" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="261" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-17" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="350" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="331" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-18" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;SharedLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="240" y="460" width="170" height="60" as="geometry" />
+          <mxGeometry x="221" y="460" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-19" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="225" y="600" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="206" y="600" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-20" value="Shared Services Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="295" y="597.11" width="130" height="80" as="geometry" />
+          <mxGeometry x="276" y="597.11" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="225" y="678.89" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="206" y="678.89" width="60.5" height="61.11" as="geometry" />
         </mxCell>
-        <mxCell id="PRShFBE_9NoNyRxM8n8l-22" value="VDI Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;br&gt;Policy VPNs to Customer Pods&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="295" y="671" width="180" height="90" as="geometry" />
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-22" value="VDI Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;br&gt;Policy VPNs to&lt;br&gt;Customer Pods&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="276" y="676" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-23" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="483" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="445" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-24" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="553" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="515" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-25" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;IaaSLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="443" y="460" width="170" height="60" as="geometry" />
+          <mxGeometry x="405" y="460" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="428" y="600" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="409" y="600" width="60.5" height="61.11" as="geometry" />
         </mxCell>
-        <mxCell id="PRShFBE_9NoNyRxM8n8l-27" value="IaaS Pod(s)&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BYO-IP&lt;br&gt;N-S Firewall&lt;br&gt;Customer Managed Security&lt;br&gt;Dedicated T1s&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="498" y="597.11" width="170" height="80" as="geometry" />
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-27" value="IaaS Pod(s)&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BYO-IP&lt;br&gt;N-S Firewall&lt;br&gt;Customer &lt;br&gt;Managed Security&lt;br&gt;Dedicated T1s&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="479" y="600.11" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-30" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="680" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="607" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-31" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="750" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="677" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-32" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;BrdLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="640" y="460" width="170" height="60" as="geometry" />
+          <mxGeometry x="567" y="460" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-33" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="680" y="600" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="607" y="600" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-34" value="Edge Transport Node Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BGP Aggregation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;T0/T1 Compute Backing&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="750" y="600" width="160" height="50" as="geometry" />
+          <mxGeometry x="677" y="600" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-35" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1140" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="1151" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-36" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1280" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="1291" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-37" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1210" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="1221" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-38" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1350" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="1361" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-39" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;Spine-N&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;AZ 1 ASN&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;iBGP Route Reflectors&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;AFIs: IPv4-U, IPv6-U, EVPN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="950" y="220" width="170" height="60" as="geometry" />
+          <mxGeometry x="961" y="220" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-40" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1210.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1165.5" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-41" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1280.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1235.5" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-42" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;DedicatedLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1160.5" y="460" width="180" height="60" as="geometry" />
+          <mxGeometry x="1115.5" y="460" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-43" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1280" y="597.78" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1235" y="597.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-44" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1140" y="597.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="597.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-45" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1280" y="667.78" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1235" y="667.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-46" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1140" y="667.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="667.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-47" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1280" y="737.78" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1235" y="737.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-48" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1140" y="737.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="737.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-49" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1280" y="807.78" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1235" y="807.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-50" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1140" y="807.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="807.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-51" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1455.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1361" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-52" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1525.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1431" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-53" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;SharedLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1415.5" y="460" width="170" height="60" as="geometry" />
+          <mxGeometry x="1321" y="460" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-54" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1525" y="599" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1430.5" y="599" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-55" value="Shared Services Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1390" y="590" width="130" height="80" as="geometry" />
+          <mxGeometry x="1295.5" y="590" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-56" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1525" y="677.89" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1430.5" y="677.89" width="60.5" height="61.11" as="geometry" />
         </mxCell>
-        <mxCell id="PRShFBE_9NoNyRxM8n8l-57" value="VDI Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;br&gt;Policy VPNs to Customer Pods&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1340" y="670" width="180" height="90" as="geometry" />
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-57" value="VDI Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;br&gt;Policy VPNs to &lt;br&gt;Customer Pods&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="1305.5" y="675" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-58" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1688.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1549" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-59" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1758.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1619" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-60" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;IaaSLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1648.5" y="460" width="170" height="60" as="geometry" />
+          <mxGeometry x="1509" y="460" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-61" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=right;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1758" y="592.22" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1618.5" y="592.22" width="60.5" height="61.11" as="geometry" />
         </mxCell>
-        <mxCell id="PRShFBE_9NoNyRxM8n8l-62" value="IaaS Pod(s)&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BYO-IP&lt;br&gt;N-S Firewall&lt;br&gt;Customer Managed Security&lt;br&gt;Dedicated T1s&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1580" y="588.89" width="170" height="80" as="geometry" />
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-62" value="IaaS Pod(s)&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BYO-IP&lt;br&gt;N-S Firewall&lt;br&gt;Customer &lt;br&gt;Managed Security&lt;br&gt;Dedicated T1s&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="1500.5" y="593.89" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-63" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1002.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="957.5" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-64" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1072.5" y="520" width="60" height="60" as="geometry" />
+          <mxGeometry x="1027.5" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-65" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;BrdLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1002.5" y="460" width="170" height="60" as="geometry" />
+          <mxGeometry x="957.5" y="460" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-66" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1072" y="597.11" width="60.5" height="61.11" as="geometry" />
+          <mxGeometry x="1027" y="597.11" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-67" value="Edge Transport Node Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BGP Aggregation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;T0/T1 Compute Backing&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="900" y="599.67" width="160" height="50" as="geometry" />
+          <mxGeometry x="855" y="599.67" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
