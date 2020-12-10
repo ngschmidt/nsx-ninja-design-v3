@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T17:42:46.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="U1Tj2rHyIasqzf0awLr8" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T17:43:33.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SZuAq7v57TYMwz2K0TjA" version="14.0.0" type="github">
   <diagram id="ybUfuFw8ea-CHFbWOAjj" name="Logical Routing Detail">
     <mxGraphModel dx="2426" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,25 +131,25 @@
           <mxGeometry x="1235" y="597.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-44" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1095" y="597.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="598.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-45" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="1235" y="667.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-46" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1095" y="667.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="668.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-47" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="1235" y="737.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-48" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1095" y="737.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="738.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-49" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="1235" y="807.78" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-50" value="Dedicated Customer&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="1095" y="807.78" width="130" height="60" as="geometry" />
+          <mxGeometry x="1095" y="808.78" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-51" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=left;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="1361" y="520" width="60" height="60" as="geometry" />
