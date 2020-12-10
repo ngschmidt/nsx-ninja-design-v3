@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T16:56:03.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OmfdGRQJK9hL6IJj3lhJ" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T17:06:09.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5ZRJKKnA5dNXt-dHnVbD" version="14.0.0" type="github">
   <diagram id="ybUfuFw8ea-CHFbWOAjj" name="Logical Routing Detail">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,13 +77,43 @@
           <mxGeometry x="225" y="600" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-20" value="Shared Services Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="295" y="591.11" width="130" height="80" as="geometry" />
+          <mxGeometry x="295" y="597.11" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
           <mxGeometry x="225" y="678.89" width="60.5" height="61.11" as="geometry" />
         </mxCell>
         <mxCell id="PRShFBE_9NoNyRxM8n8l-22" value="VDI Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Global Route Table&lt;br&gt;Public IP Block&lt;br&gt;N-S Firewall&lt;br&gt;Dedicated T0/T1&lt;br&gt;Policy VPNs to Customer Pods&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
-          <mxGeometry x="295" y="665" width="180" height="90" as="geometry" />
+          <mxGeometry x="295" y="671" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-23" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="483" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-24" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="553" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-25" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;IaaSLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="443" y="460" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="428" y="600" width="60.5" height="61.11" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-27" value="IaaS Pod(s)&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BYO-IP&lt;br&gt;N-S Firewall&lt;br&gt;Customer Managed Security&lt;br&gt;Dedicated T1s&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="498" y="597.11" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-30" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="713" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-31" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="783" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-32" value="&lt;b&gt;Zcs&amp;lt;city&amp;gt;&amp;lt;az&amp;gt;BrdLeaf&lt;/b&gt;&lt;br&gt;AZ 1 ASN&lt;br&gt;iBGP Route Reflector Client&lt;br&gt;AFIs: IPv4-U, IPv6-U, EVPN" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="673" y="460" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-33" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.site_container;" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="658" y="600" width="60.5" height="61.11" as="geometry" />
+        </mxCell>
+        <mxCell id="PRShFBE_9NoNyRxM8n8l-34" value="Edge Transport Node Pod&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;BGP Aggregation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;T0/T1 Compute Backing&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="7eDJe8UgWT6jdxHGijZa-1">
+          <mxGeometry x="728" y="600" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
