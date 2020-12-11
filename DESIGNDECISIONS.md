@@ -8,7 +8,7 @@
 | One NSX Manager Cluster per Region | Each Region will have stretched network and security objects | NSX Federation scale is too low for future growth | NSX Federation |-|
 | Stretch Networks between AZs in a Region | Shared Networks and Security policy |-|-|-|
 | T0-T0 Aggregation | To avoid constantly updating BGP Neighbor configurations |-|-|-|
-| Tenant Isolation | Tennants will receive a dedicated T1 router, and use DFW and gateway firewall at their own discretion |-|-| Professional services available |
+| Tenant Isolation | Tenants will receive a dedicated T1 router, and use DFW and gateway firewall at their own discretion |-|-| Professional services available |
 | VDI Placement will be on the same Transport Zone and have a dedicated vn segment on the customers T1 | Security is the responsibility of the customer within their tenancy |-|-| Professional services available |
 | IPSEC Tunnel overlays | Customers using both environments need access between Tiers and customers may need access to each other |-| Route Everything and Microsegment, Route Reflectors | Policy-based VPN is available via vCloud Director.<br /> Route-based VPN is available through PSO at additional cost |
 | NSX Edge VMs sized at Large | Large VM supports up to 40 tenants with a load balancer and BFD not needed | Higher average cost per VM | Bare Metal Edges | Allows a standard hardware form-factor for Edge hypervisors |

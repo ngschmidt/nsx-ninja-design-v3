@@ -3,13 +3,11 @@
 ## Overview
 
 - VMware vCloud Director allows us to convert our physical data centers into virtual data centers (VDCs). By placing network, storage and compute resources, into VDC resources, we can then make them available as catalog-based services to cusotmers through a web portal.
-- VMware vCloud Director, or, if chosen, the `Zilungele Cloud Portal` is an excellent for applying limits on customers to control access and the consumption.
+- VMware vCloud Director will be used as a subcomponent of the `Cloud Provider Pod` for applying limits on customers to control access and the consumption, and will be initially located in the `Johannesburg` Region.
 
 ## Consumable Services
 
-### Network Solutions
-
-#### In-Scope
+### In-Scope
 
 - IaaS Tenancy will follow the `Routed (Shared T0)` on-demand blueprint model provided natively with vCD
 - Dedicated Tenancy will follow the `Routed (Dedicated T0)` on-demand blueprint model provided natively with vCD
@@ -19,7 +17,7 @@
   - This is to maximize the repeatability of the shared services hub, which *SHOULD* be implemented in every Availability Zone
 - CaaS. Containers-as-a-Service will be provided, but as its own service under a standalone `Routed (Shared T0`)
 
-#### Out-of-Scope
+### Out-of-Scope
 
 - External Networks.
 - Desktop-as-a-Service
