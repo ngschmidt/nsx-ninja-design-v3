@@ -15,9 +15,8 @@ Provide a complete solution design for Zilungele Cloud Services.
   - [Transport Node Design](TN.md)
   - [IP/ASN Management](IP_ASN_REGISTRY.md)
   - [Naming Conventions](NAMING.md)
-  - [Security Controls and Auditing](SECURITY.md)
-  - [Automation and Orchestration](AUTOMATION.md)
-  - [IPv6](IPv6.md)
+  - [Security Responsibility Model](SECURITY.md)
+  - [Cloud Services Portal](vCD.md)
   - [Ideas](IDEAS.md)
 
 ### Conventions/Shared Stencils
